@@ -1,0 +1,12 @@
+C:\مجلد جديد\Book_AppMain\Book_Domain\bin\Debug\net6.0\Book_Domain.deps.json
+C:\مجلد جديد\Book_AppMain\Book_Domain\bin\Debug\net6.0\Book_Domain.dll
+C:\مجلد جديد\Book_AppMain\Book_Domain\bin\Debug\net6.0\Book_Domain.pdb
+C:\مجلد جديد\Book_AppMain\Book_Domain\obj\Debug\net6.0\Book_Domain.csproj.AssemblyReference.cache
+C:\مجلد جديد\Book_AppMain\Book_Domain\obj\Debug\net6.0\Book_Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\مجلد جديد\Book_AppMain\Book_Domain\obj\Debug\net6.0\Book_Domain.AssemblyInfoInputs.cache
+C:\مجلد جديد\Book_AppMain\Book_Domain\obj\Debug\net6.0\Book_Domain.AssemblyInfo.cs
+C:\مجلد جديد\Book_AppMain\Book_Domain\obj\Debug\net6.0\Book_Domain.csproj.CoreCompileInputs.cache
+C:\مجلد جديد\Book_AppMain\Book_Domain\obj\Debug\net6.0\Book_Domain.dll
+C:\مجلد جديد\Book_AppMain\Book_Domain\obj\Debug\net6.0\refint\Book_Domain.dll
+C:\مجلد جديد\Book_AppMain\Book_Domain\obj\Debug\net6.0\Book_Domain.pdb
+C:\مجلد جديد\Book_AppMain\Book_Domain\obj\Debug\net6.0\ref\Book_Domain.dll

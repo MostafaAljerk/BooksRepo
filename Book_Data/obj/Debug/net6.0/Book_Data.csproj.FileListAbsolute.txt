@@ -1,0 +1,15 @@
+C:\مجلد جديد\Book_AppMain\Book_Data\bin\Debug\net6.0\Book_Data.deps.json
+C:\مجلد جديد\Book_AppMain\Book_Data\bin\Debug\net6.0\Book_Data.dll
+C:\مجلد جديد\Book_AppMain\Book_Data\bin\Debug\net6.0\Book_Data.pdb
+C:\مجلد جديد\Book_AppMain\Book_Data\bin\Debug\net6.0\Book_Domain.dll
+C:\مجلد جديد\Book_AppMain\Book_Data\bin\Debug\net6.0\Book_Domain.pdb
+C:\مجلد جديد\Book_AppMain\Book_Data\obj\Debug\net6.0\Book_Data.csproj.AssemblyReference.cache
+C:\مجلد جديد\Book_AppMain\Book_Data\obj\Debug\net6.0\Book_Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\مجلد جديد\Book_AppMain\Book_Data\obj\Debug\net6.0\Book_Data.AssemblyInfoInputs.cache
+C:\مجلد جديد\Book_AppMain\Book_Data\obj\Debug\net6.0\Book_Data.AssemblyInfo.cs
+C:\مجلد جديد\Book_AppMain\Book_Data\obj\Debug\net6.0\Book_Data.csproj.CoreCompileInputs.cache
+C:\مجلد جديد\Book_AppMain\Book_Data\obj\Debug\net6.0\Book_Data.csproj.CopyComplete
+C:\مجلد جديد\Book_AppMain\Book_Data\obj\Debug\net6.0\Book_Data.dll
+C:\مجلد جديد\Book_AppMain\Book_Data\obj\Debug\net6.0\refint\Book_Data.dll
+C:\مجلد جديد\Book_AppMain\Book_Data\obj\Debug\net6.0\Book_Data.pdb
+C:\مجلد جديد\Book_AppMain\Book_Data\obj\Debug\net6.0\ref\Book_Data.dll
